@@ -58,6 +58,41 @@ p3b(v).java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P3b(v).png
 
 
 
+p3c(i).java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P3c(i).png
+
+
+p3c(ii).java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P3c(ii).png
+
+
+
+p3c(iii).java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P3c(iii).png
+
+p3c(iv).java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P3c(iv).png
+
+p3c(v).java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P3c(v).png
+
+
+p4a.java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P4a.png
+
+p4b.java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P4b.png
+
+
+p5a.java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P5a.jpeg
+
+
+p5b.java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P5b.png
+
+p5c.java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P5c.jpeg
+
+p5d.java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P5d.png
+
+
+
+
+
+
+
+
 
 
 
