@@ -17,4 +17,27 @@ p1b(v).java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P1b(v).png
 
 
 
+p1c(i).java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P1b(i).png
+
+
+p1c(ii).java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P1b(ii).png
+
+
+
+p1c(iii).java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P1b(iii).png
+
+p1c(iv).java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P1b(iv).png
+
+p1c(v).java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P1b(v).png
+
+
+
+
+
+
+
+
+
+
+
 
