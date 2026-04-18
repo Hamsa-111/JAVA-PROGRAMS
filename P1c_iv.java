@@ -1,0 +1,25 @@
+/*1c(iv).Write a Java program to display elements and their positions in a linked list ( using l_listobj.get(p) )*/
+
+
+
+package Java;
+import java.util.LinkedList;
+
+public class P1c_iv{
+public static void main(String[] args){
+
+LinkedList<String> colors=new LinkedList<>();
+
+colors.add("Red");
+colors.add("Blue");
+colors.add("Green");
+colors.add("Yellow");
+
+System.out.println("Elements with positions:");
+
+for(int i=0;i<colors.size();i++){
+System.out.println("Position "+i+" : "+colors.get(i));
+}
+
+}
+}
