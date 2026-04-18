@@ -77,6 +77,9 @@ p4a.java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P4a.png
 p4b.java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P4b.png
 
 
+p4c.java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P4c.png
+
+
 p5a.java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P5a.jpeg
 
 
