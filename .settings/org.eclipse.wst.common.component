@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="P7b">
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <property name="context-root" value="P7b"/>
         <property name="java-output-path" value="/P7b/build/classes"/>
+=======
+<<<<<<< HEAD
+    <wb-module deploy-name="P7a-">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="P7a-"/>
+        <property name="java-output-path" value="/P7a-/build/classes"/>
+=======
+<<<<<<< HEAD
+    <wb-module deploy-name="P6-b">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="P6-b"/>
+        <property name="java-output-path" value="/P6-b/build/classes"/>
+=======
+    <wb-module deploy-name="P6a-">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="P6a-"/>
+        <property name="java-output-path" value="/P6a-/build/classes"/>
+>>>>>>> branch 'master' of https://github.com/Hamsa-111/JAVA-PROGRAMS.git
+>>>>>>> branch 'master' of https://github.com/Hamsa-111/JAVA-PROGRAMS.git
+>>>>>>> branch 'master' of https://github.com/Hamsa-111/JAVA-PROGRAMS.git
     </wb-module>
 </project-modules>
