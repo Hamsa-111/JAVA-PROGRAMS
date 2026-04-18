@@ -31,6 +31,11 @@ p1c(iv).java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P1b(iv).png
 p1c(v).java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P1b(v).png
 
 
+p2a.java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P2a..png
+         https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P2a...png
+
+
+
 
 
 
