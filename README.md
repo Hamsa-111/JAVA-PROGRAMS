@@ -34,6 +34,27 @@ p1c(v).java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P1b(v).png
 p2a.java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P2a..png
          https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P2a...png
 
+p3a.java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P3a..png     https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P3a..png
+
+
+
+
+
+
+p3b(i).java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P3b(i).png
+
+
+p3b(ii).java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P3b(ii).png
+
+
+
+p3c(iii).java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P3b(iii).png
+
+p3b(iv).java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P3b(iv).png
+
+p3b(v).java:https://github.com/Hamsa-111/JAVA-PROGRAMS/blob/main/P3b(v).png
+
+
 
 
 
